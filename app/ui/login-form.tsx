@@ -94,7 +94,7 @@ function LoginButton() {
     <Button className="mt-4 w-full" aria-disabled={pending}>
       <ArrowRightIcon className="ml-auto h-5 w-5 text-gray-50" />\
       <Link
-            href="/register"
+            href= "https://relief-hub-alpha.vercel.app/login"
           >Login
       </Link>
     </Button>
